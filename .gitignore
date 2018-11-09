@@ -3,8 +3,14 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/Plugins/GitHub
+Plugins/GitHub
 
 /Assets/AssetStoreTools*
+/Assets/Plugins/GitHub/
+/Assets/Plugins/GitHub*
+Assets/Plugins/GitHub/
+Assets/Plugins/GitHub*
 
 # Visual Studio 2015 cache directory
 /.vs/
